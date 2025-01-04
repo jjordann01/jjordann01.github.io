@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[Home](./another-page.html). [Resume and Certifications](./another-page.html). [Projects](./another-page.html) [Contact](./another-page.html)
+[#Home](./another-page.html)   [#Resume and Certifications](./another-page.html).   [#Projects](./another-page.html)   [#Contact](./another-page.html)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
