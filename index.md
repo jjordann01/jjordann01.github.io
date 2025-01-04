@@ -2,7 +2,7 @@
 layout: default
 ---
 [**Home**](./index.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [**Resume and Certifications**]("resume.html")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [**Projects**](./another-page.html)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [**Contact**](./another-page.html)
-<a href="index.md">Home</a><a href="resume.html">Resume and Certifications</a><a href="projects.html">Projects</a><a href="contact.html">Contact</a>
+<a href="index.md">Home</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="resume.html">Resume and Certifications</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="projects.html">Projects</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="contact.html">Contact</a>
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 
