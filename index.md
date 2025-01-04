@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[**Home**](index.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [**Resume and Certifications**](./another-page.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [**Projects**](./another-page.html)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [**Contact**](./another-page.html)
+[**Home**](index.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [**Resume and Certifications**](./another-page.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [**Projects**](./projects.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [**Contact**](./contact.md)
 
 
 
