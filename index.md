@@ -4,7 +4,7 @@ layout: default
 [**Home**](./index.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [**Resume and Certifications**]("resume.html")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [**Projects**](./another-page.html)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [**Contact**](./another-page.html)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
-
+<a href="resume.html">Go to Page 2</a>
 
 
 There should be whitespace between paragraphs.
